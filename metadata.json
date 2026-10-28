@@ -1,0 +1,6 @@
+{
+  "name": "Datalytics AI",
+  "description": "Turn Raw Data Into Smart Decisions - AI-powered data analytics with interactive visualizations, executive insights, and natural language exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
